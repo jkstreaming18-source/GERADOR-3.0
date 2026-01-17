@@ -1,0 +1,7 @@
+{
+  "name": "GERADOR JL",
+  "description": "Professional AI image generation and editing studio with a futuristic lime green aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
